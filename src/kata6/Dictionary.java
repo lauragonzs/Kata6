@@ -15,7 +15,7 @@ public class Dictionary {
 
     @Override
     public String toString() {
-        return "Phonetic{" + "text=" + txt + ", audio=" + audio +
+        return "Dictionary{" + "text=" + txt + ", audio=" + audio +
                 ", sourceURL=" + sourceURL + ", license=" + license + '}';
     }
 
